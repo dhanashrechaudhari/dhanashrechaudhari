@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Dhanashri 👋
 
-<!--
-**dhanashrechaudhari/dhanashrechaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Cloud | AWS | DevOps  
+🚀 B.Tech Information Technology Student  
+💡 Passionate about Cloud Infrastructure & Automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- ☁️ Working with AWS services like EC2, S3, IAM, VPC, RDS
+- 🔐 Strong understanding of networking basics
+- ⚙️ Learning DevOps, CI/CD & automation
+- 🐧 Comfortable with Linux & Shell scripting
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud
+AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, Route 53)
+
+### ⚙️ DevOps
+Docker | Jenkins | Terraform | GitHub Actions
+
+### 🐧 OS & Tools
+Linux | Git | GitHub | Bash
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/dhanashri-chaudhari-b6abb7284
+- 📧 Email: dhanashric647@gmail.com
+
