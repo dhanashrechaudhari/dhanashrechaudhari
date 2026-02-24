@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhanashri Chaudhari</h1>
+<h1 align="center">Hi, I'm Dhanashri 👋</h1>
 <h3 align="center">☁️ Cloud & DevOps Engineer | AWS </h3>
 
 <p align="center">
