@@ -1,40 +1,63 @@
-# Hi, I'm Dhanashri 👋
+<h1 align="center">Hi 👋, I'm Dhanashri Chaudhari</h1>
+<h3 align="center">☁️ Cloud & DevOps Engineer | AWS </h3>
 
-☁️ Cloud | AWS | DevOps  
-🚀 B.Tech Information Technology Student  
-💡 Passionate about Cloud Infrastructure & Automation  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Enthusiast;DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Automation+%7C+CI%2FCD+Pipelines" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🌑 About Me
 
-- ☁️ Working with AWS services like EC2, S3, IAM, VPC, RDS
-- 🔐 Strong understanding of networking basics
-- ⚙️ Learning DevOps, CI/CD & automation
-- 🐧 Comfortable with Linux & Shell scripting
+- ☁️ Hands-on experience with AWS (EC2, S3, IAM, VPC, RDS, CloudWatch)
+- 🐳 Containerizing applications using Docker
+- ☸️ Deploying scalable workloads on Kubernetes
+- 🐧 Strong Linux & networking fundamentals
+- ⚙️ Building CI/CD pipelines and deployment automation
+- 🚀 Focused on scalable, secure cloud architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud
-AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, Route 53)
+AWS – VPC, EC2, IAM, S3, RDS, Route 53, ELB, Lambda, CloudWatch
 
 ### ⚙️ DevOps
-Docker | Jenkins | Terraform | GitHub Actions
+Docker  
+Kubernetes  
+Git, GitHub, GitLab  
 
-### 🐧 OS & Tools
-Linux | Git | GitHub | Bash
+### 🧱 Infrastructure as Code
+Terraform  
+Ansible  
+
+### 🐧 Operating System
+Linux   
+
+### 📚 Currently Learning
+DevOps  
+GitHub Actions  
+CI/CD Pipelines  
+
+## 🏗️ Featured DevOps Projects
+
+- AWS 3-Tier Architecture with Auto Scaling  
+- AWS Data Migration
+- AutoScaling Group Deployment
+- Containerized Three-Tier Web Application   
+- Kubernetes Deployment with HPA   
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+- LinkedIn: www.linkedin.com/in/dhanashri-chaudhari-b6abb7284 
+- Medium: https://medium.com/@chaudharidhanashri2603
+- Email: dhanashric647@gmail.com
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/dhanashri-chaudhari-b6abb7284
-- 📧 Email: dhanashric647@gmail.com
-
+<p align="center">
+  🤝 "Thanks for visiting my profile!"
+</p>
